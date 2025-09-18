@@ -25,6 +25,14 @@
 ### 📘Libraries
 
 ![jss](https://img.shields.io/badge/jss-F7DF1E.svg?style=for-the-badge&logo=jss&logoColor=black)
+
+<h4 align="center">
+  
+Credit: [SvetlanaGirSmir-20]
+
+Last Edited on: 18/09/2025.
+  
+</h4>
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
