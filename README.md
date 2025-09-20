@@ -1,6 +1,11 @@
  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <h1 align="center">Hi 👋, I'm Svetlana</h1>
 <h4 align="center">I'm a 39 years old junior web developer based in Spain.</h4>
+<p align="center">
+  <a href="https://github.com/tu-usuario">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100" alt="GitHub logo" />
+  </a>
+</p>
 
 <h1 align="left">🧠 Skills Showcase</h1>
 
