@@ -6,6 +6,11 @@
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100" alt="GitHub logo" />
   </a>
 </p>
+## 👨‍💻 About Me
+
+Hi there! I'm a passionate and detail-oriented software developer based in Valencia, Spain.
+
+I specialize in building scalable, maintainable, and efficient backend systems. My main focus is delivering clean code, robust APIs, and reliable integrations across platforms and services.
 
 <h1 align="left">🧠 Skills Showcase</h1>
 
