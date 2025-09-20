@@ -38,7 +38,14 @@ Credit: [SvetlanaGirSmir-20]
 
 Last Edited on: 18/09/2025.
   
-</h4>
+## 🌍 Mapa de Valencia
+
 <p align="center">
-        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+  <img src="assets/mapa-valencia.png" alt="Mapa de Valencia" width="500"/>
 </p>
+
+> Este mapa muestra mi ubicación aproximada (Valencia, España).
+
+---
+
+
