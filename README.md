@@ -38,14 +38,6 @@ Credit: [SvetlanaGirSmir-20]
 
 Last Edited on: 18/09/2025.
   
-## 🌍 Mapa de Valencia
 
-<p align="center">
-  <img src="assets/mapa-valencia.png" alt="Mapa de Valencia" width="500"/>
-</p>
-
-> Este mapa muestra mi ubicación aproximada (Valencia, España).
-
----
 
 
